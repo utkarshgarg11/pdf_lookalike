@@ -1,0 +1,17 @@
+What new skills have you learned?
+1. <br> is not necessary everywhere. <p> can do the job.
+2. <sup> tag for superscript.
+
+  
+What has been easy?
+
+Everything seemed easy.  
+
+What has been difficult?
+Nothing seemed difficult.
+  
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+Having an overview of how I want the page to look helped me greatly in coming up with finding ways of doing it. 
